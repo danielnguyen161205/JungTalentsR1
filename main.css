@@ -76,6 +76,15 @@ body {
     display: none;
 }
 
+.header-button{
+    width: 0.365vw;
+    height: 0.156vw;
+    left: 42.448vw;
+    top: 2.969vw;
+    border:0.052vw;
+    position: fixed;
+}
+
 /*Body1*/
 .body1 {
     width: auto;
@@ -427,7 +436,7 @@ body {
     padding: 5.0521vw 0 2.0833vw 0;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 31.25em) {
 
     /*Header*/
     .header {
